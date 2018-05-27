@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: '**IGNITE**'
+landing-title: 'IGNITE'
 description: null
 image: null
 author: null
